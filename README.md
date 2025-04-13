@@ -10,7 +10,7 @@ Overview
 2. Android Client
 3. Server
 
-##Game Modes
+**Game Modes**
 
 1. Classic Mode
 
@@ -25,7 +25,7 @@ Overview
     - Score based on number of cards completed
     - Solo and multiplayer options
 
-##Core Gameplay
+**Core Gameplay**
 
 - Players are presented with two similar images
 - Find and click on differences between the images
@@ -33,7 +33,7 @@ Overview
 - Progress tracking and scoring system
 - Replay functionality to review games
 
-##Social Features
+**Social Features**
 
 - User account system with authentication
 - Friend system for multiplayer games
@@ -41,7 +41,7 @@ Overview
 - Game history tracking
 - Leaderboard system
 
-##Technologies Used
+**Technologies Used**
 
 1. Desktop Client
 
@@ -67,13 +67,13 @@ Frontend Framework: Angular 14
     - Image picking and processing
     - Audio playback
 
-##Server
+**Server**
 
 - Backend: Node.js
 - Real-time Communication: Socket.IO
 - Content Filtering: Bad-words library
 
-##Features
+**Features**
 
 Cross-Platform Support
 
@@ -86,7 +86,7 @@ Real-time Communication
 - Socket.IO for real-time data exchange
 - Firebase integration for authentication and data storage
 
-##Development Setup
+**Development Setup**
 
 Desktop Client
 
@@ -113,7 +113,7 @@ npm install
 npm start
 ```
 
-##Building for Production
+**Building for Production**
 
 Desktop Client
 
@@ -129,7 +129,7 @@ cd android-client
 flutter build apk
 ```
 
-##License
+**License**
 
 This project is a school project developed in a team of six people at Polytechnique Montréal.
 All rights reserved to Polytechnique Montréal. This project is not intended for commercial use.
