@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "751827017922",
+    "firebase_url": "https://projet3-log3900-v2-default-rtdb.firebaseio.com",
+    "project_id": "projet3-log3900-v2",
+    "storage_bucket": "projet3-log3900-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751827017922:android:028129b597da45064c9b5b",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFljggXnOHreyAbdnajVL4yVm1uN2p2GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
