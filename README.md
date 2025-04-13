@@ -131,3 +131,15 @@ License
 
 This project is a school project developed in a team of six people at Polytechnique Montréal.
 All rights reserved to Polytechnique Montréal. This project is not intended for commercial use.
+
+## Firebase Setup
+
+1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/)
+2. Generate a new service account key:
+   - Go to Project Settings > Service Accounts
+   - Click "Generate New Private Key"
+   - Save the downloaded JSON file
+3. Rename the downloaded JSON file to `fbkey.json` and place it in `server/app/utils/`
+4. The file structure should match the template in `fbkey.json.template`
+
+Note: Never commit the actual `fbkey.json` file to the repository as it contains sensitive credentials.
